@@ -20,7 +20,7 @@
     "commandAliases": {}
   },
   "database": {
-    "uri": "./profile",
+    "uri": "gs://project-4145731272844130689.appspot.com",
     "connection": {},
     "clean": false,
     "articlesExpire": 14,
